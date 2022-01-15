@@ -31,7 +31,6 @@ a bit too much guess work, and not super efficient, took 12 seconds for code to 
 
 '''
 
-#not sure what this sould return actually
 def nTriangle(n):
         #return int(n*(n+1)/2)
         newlist = []
